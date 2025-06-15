@@ -30,6 +30,7 @@ In real-world scenarios, this script can be expanded in many useful ways. It can
 
 
 OUTPUT OF CODE:
+![Image](https://github.com/user-attachments/assets/4a6269f8-bc77-4489-9973-1839625aa427)
 
 
 
